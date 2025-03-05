@@ -1521,9 +1521,6 @@ pink lady
 pink panda
 pink purses
 pink zebra
-pioneer
-pioneer pet
-pioneer woman
 piping
 puma
 puma life
@@ -1870,7 +1867,6 @@ stone ridge
 stonehenge
 stonehenge sandstone
 stonehenge stones
-stp
 stradivarius
 strawberry milk mob
 stray kids
