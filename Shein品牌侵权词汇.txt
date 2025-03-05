@@ -861,7 +861,6 @@ hogwarts express
 hoka
 hoka one one
 holland & barrett
-home
 homekit
 honda
 honeydukes
@@ -2427,7 +2426,6 @@ zara home
 zebra
 zeehool
 zeng jianbin
-zenith
 zenwise
 zero tolerance
 zerowaste
