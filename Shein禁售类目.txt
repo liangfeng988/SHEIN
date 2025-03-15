@@ -1,3 +1,4 @@
+Kids Bikes
 Golf Rangefinder
 Headlight Bulbs
 BBQ Lighter Cases
@@ -325,7 +326,6 @@ Fold-Flat Dust Safety Masks
 Foot correction
 Foot Tubs
 Fragrance Sets
-French Fry Cutters
 Fruit Knives
 Functional glasses
 Functional shoes
@@ -566,7 +566,6 @@ Kids Roller Shoes
 Kids Running Shoes
 Kids Scarves
 Kids Science & Discovery Toys
-Kids Bookcases, Cabinets & Shelves
 Kids Scooters
 Kids Servos & Parts
 Kids Sheet Sets with Pillowcases
@@ -1083,4 +1082,5 @@ Women Wrestling Shoes
 Wrap Cutters
 Wrinkle patches
 Other Kids Sports & Outdoor Play
+LED Strip Lights
 Yo-yos
